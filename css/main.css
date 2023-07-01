@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #af8;
+  background: #32f6cf;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2291,7 +2291,7 @@ embed {
   white-space: nowrap;
 }
 body {
-  background: url("D:Blogsource_datafxxk.png");
+  background: url("/images/fxxk.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
